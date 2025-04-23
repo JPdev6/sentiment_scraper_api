@@ -10,3 +10,6 @@ __pycache__/
 
 # Ignore credentials
 credentials.json
+
+# Ignore token.pickle
+token.pickle
